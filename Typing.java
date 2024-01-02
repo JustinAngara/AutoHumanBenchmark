@@ -37,13 +37,13 @@ public class Typing {
 		
 	}
 	
-	public void getContents() throws IOException {
+//	public void getContents() throws IOException {
 
 //		doc = Jsoup.connect("https://humanbenchmark.com/tests/typing").get();
 //
 //		english = doc.getElementsByClass("letters notranslate").get(0).text();
 //		System.out.println(english);
-	}
+//	}
 	
 	
 	public static void main(String[] args) throws AWTException, IOException {
